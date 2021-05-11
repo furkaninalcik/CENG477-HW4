@@ -31,11 +31,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Files\Assignment 4\helper.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="..\..\..\Files\Assignment 4\Makefile">
       <Filter>Source Files</Filter>
     </None>

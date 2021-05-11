@@ -158,9 +158,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Files\Assignment 4\helper.h" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="..\..\..\Files\Assignment 4\Makefile" />
     <None Include="..\..\..\Files\Assignment 4\shader.frag" />
     <None Include="..\..\..\Files\Assignment 4\shader.vert" />
